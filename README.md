@@ -1,3 +1,5 @@
+This Project is publised. Here is the URL : 
+https://gusaincom2-dev-ed.develop.my.site.com/moviesearch
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
